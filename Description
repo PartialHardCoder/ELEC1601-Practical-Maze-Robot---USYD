@@ -1,0 +1,1 @@
+ELEC1601 lab project that requires you code an arduino uno board with servo motors to navigate a simple maze. The code follows the right hand wall to find the exit, it completed the maze in around 26 seconds.
